@@ -28,7 +28,6 @@
 
 <h2 id="bigbot-coming-soon"> Coming Soon </h2>
 
-- Accepting/Denying Suggestions
 - Notifications
 - Levelling System
 - Loads of economy stuff
