@@ -90,7 +90,7 @@ Users will send a message to a channel and the following will happen based on wh
 ![](README-assets/DiscordCanary_iXAJmRp2XI.png)
 5. Choose whether you want to automatically create a thread on new suggestions as shown in this image
 ![](README-assets/DiscordCanary_kYD7SyG7Fz.png)
-6. You are finished if chose either `simple` or `embedded` in step 4. If you chose complex, however, you have one more step. You need to select whether you want to have accepted/denied suggestions be sent to seperate channels or just have the original message editted to show the verdict as shown in this image
+6. You are finished if you chose either `simple` or `embedded` in step 4. If you chose complex, however, you have one more step. You need to select whether you want to have accepted/denied suggestions be sent to seperate channels or just have the original message editted to show the verdict as shown in this image
 ![](README-assets/DiscordCanary_c8MaLUYM6a.png)
 7. If you chose to send them to seperate channels you will then need to select an accepted suggestion channel and a denied suggestion channel as shown in this image
 ![](README-assets/DiscordCanary_yZHDYZRXfC.png)
